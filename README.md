@@ -68,7 +68,9 @@ print(list_of_nums)
 
 ## Output:
 Selction sort
-![](ss.png)
+![](ss![Uploading image.png…]()
+![Uploading image.png…]()
+.png)
 
 Insertion sort
 ![](is.png)
