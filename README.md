@@ -68,7 +68,7 @@ print(list_of_nums)
 
 ## Output:
 Selction sort
-https://github.com/22009071/Sorting-Algorithm/blob/main/Screenshot_20230126_101256.png?raw=true
+![](Screenshot_20230126_101256.png)
 
 
 
