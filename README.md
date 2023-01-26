@@ -68,8 +68,8 @@ print(list_of_nums)
 
 ## Output:
 Selction sort
-![](ss![Uploading image.png…]()
-![Uploading image.png…]()
+![](ssScreenshot_20230126_101256!]
+
 .png)
 
 Insertion sort
