@@ -68,9 +68,9 @@ print(list_of_nums)
 
 ## Output:
 Selction sort
-![](ssScreenshot_20230126_101256!]
+https://github.com/22009071/Sorting-Algorithm/blob/main/Screenshot_20230126_101256.png?raw=true
 
-.png)
+
 
 Insertion sort
 ![](is.png)
